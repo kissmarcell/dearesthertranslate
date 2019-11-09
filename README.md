@@ -7,6 +7,7 @@ It converts your Dear Esther (2012) localisation files to Dear Esther: Landmark 
 
 ## But, why?
 ![But why image](http://giphygifs.s3.amazonaws.com/media/1M9fmo1WAFVK0/giphy.gif)
+
 The original game has a redux version called Landmark Edition, which has been rewritten to another engine, and because of this, the resource files are in another format. The volunteer translators who made the translations for the original game did not create new ones for the new edition, so players trying the new one are forced to used the default languages. This program tries to solve this problem.
 
 ## It only converted some lines, why?
