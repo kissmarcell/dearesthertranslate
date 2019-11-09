@@ -2,7 +2,6 @@ import re
 import xml.etree.ElementTree as ET
 import argparse
 import json
-from pprint import pprint
 
 parser = argparse.ArgumentParser(description='A command line tool to convert your Dear Esther localisation files to Dear Esther: Landmark Edition version.')
 parser.add_argument("-s", '--source', required=True, help="your Dear Esther localisation file")
