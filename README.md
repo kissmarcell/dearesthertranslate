@@ -46,7 +46,7 @@ arguments:
 ## Two sources, what?
 The first file, the `SOURCE` is the localised one you probably downloaded from a videogame translator forum, and it's in the format of the original Dear Esther game (which is why you are probably here in the first place). It's probably the right one if it's called `closecaption_<some_language>.txt`.
 
-The second file, called `XMLSOURCE` is the one you need to copy from the folder of the DE: Landmark Edition. It is needed because the program itself cannot create a proper XML translation file, only overwrite an already existing one. You should use one in a language you already understand, because the strings that could not be translated will stay in this language. The default file is the English one, which is also included in this repository (`text_English.txt`), so if otherwise you are comfortable with the language, just skip this argument.
+The second file, called `XMLSOURCE` is the one you need to copy from the folder of the DE: Landmark Edition. It is needed because the program itself cannot create a proper XML translation file, only overwrite an already existing one. You should use one in a language you already understand, because the strings that could not be translated will stay in this language. The default file is the English one, which is also included in this repository (`text_English.xml`), so if otherwise you are comfortable with the language, just skip this argument.
 
 The game also includes French, German, Russian and Spanish translations, so if you prefer these languages, use these files as sources.
 
